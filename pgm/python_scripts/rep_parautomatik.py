@@ -5,7 +5,6 @@ import sys, os
 import numpy as np
 import itertools as it
 from collections import OrderedDict, defaultdict
-import numpy as np
 from ase import Atoms
 from ase import io
 import ase.db as db
