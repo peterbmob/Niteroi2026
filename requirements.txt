@@ -1,0 +1,15 @@
+# Core dependencies for workshop notebooks
+jupyter>=1.0.0
+numpy>=1.21.0
+scipy>=1.7.0
+matplotlib>=3.4.0
+
+# Atomic simulation and structure tools
+ase>=3.22.0
+
+# Machine learning for force fields
+scikit-learn>=1.0.0
+
+# Optional: For advanced ML force field implementations
+# torch>=1.9.0
+# e3nn>=0.5.0
